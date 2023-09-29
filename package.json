@@ -33,7 +33,7 @@
     "@babel/preset-env": "~7.16.0",
     "babelify": "~10.0.0",
     "browserify": "~16.5.2",
-    "rx": "4.0.8",
+    "rx": "4.1.0",
     "uglify-js": "~3.9.4"
   },
   "devDependencies": {
