@@ -28,9 +28,9 @@
     "semver": "7.5.2"
   },
   "dependencies": {
-    "@babel/cli": "~7.16.0",
-    "@babel/core": "~7.16.0",
-    "@babel/preset-env": "~7.16.0",
+    "@babel/cli": "~7.22.15",
+    "@babel/core": "~7.22.15",
+    "@babel/preset-env": "~7.22.15",
     "babelify": "~10.0.0",
     "browserify": "~16.5.2",
     "rx": "4.0.8",
