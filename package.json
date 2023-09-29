@@ -34,7 +34,7 @@
     "babelify": "~10.0.0",
     "browserify": "~16.5.2",
     "rx": "4.0.8",
-    "uglify-js": "~3.9.4"
+    "uglify-js": "~3.17.4"
   },
   "devDependencies": {
     "@bomgar/mock-socket": "git+ssh://git@git.bt3ng.com:7999/~bsimpson/mock-socket.git#175a2cc28ff845ed333ccff8722988e4b91c0b41",
